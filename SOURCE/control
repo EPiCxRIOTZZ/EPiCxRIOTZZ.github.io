@@ -1,7 +1,0 @@
-Package: com.hello1.resprin
-Name: ResprinVersion: 1.0
-Architecture: iphoneos-arm
-Description: Respring application for iOS 10
-Maintainer: sanfresh
-Author: sanfresh
-Section: Utilities
